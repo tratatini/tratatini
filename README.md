@@ -1,11 +1,3 @@
-### Hi, I'm Tania 👋
-
-**AI Operator · Talent Acquisition** · Kyiv, Ukraine
-
-I build the AI agents, apps and automations a recruiting team runs on: sourcing, interview notes, re-engagement of past candidates, outreach and reporting. Everything sits on top of the ATS the team already uses.
-
-**Portfolio and case studies → [tratatini.github.io](https://tratatini.github.io)**
-
 #### What I've built
 
 | Project | What it does |
