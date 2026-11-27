@@ -9,7 +9,7 @@
 | Live org chart | Built from HR system, team pages and time split, with automatic gap checks. |
 | Outreach & sequences | Templates, scheduled sends and sequences, each touch logged in the ATS. |
 
-These tools were built for my employer, so their code is private. The portfolio explains the approach without company data.
+These tools were built for my employer, so their code is private.
 
 #### How I work
 
